@@ -1,0 +1,38 @@
+
+body{
+ 
+    background: #F0F4C3;
+   /* border-style: solid;*/
+	text-color: yellow;
+    padding: 1px;
+   /* border:  solid navy;
+	border-style: single */
+    margin: 25px;
+
+}
+h {
+    text-align: left-side;
+	color:rgb(0,0,255);
+	font-size: 20px;
+}
+
+h3{
+    color: green;
+}
+h2{
+    color: maroon;
+}
+h1{
+    color: brown;
+	text-align: center;
+}
+p1 {
+    color: solid black;
+}
+tr{
+	border: none;
+}
+td {
+    color: black;
+}
+
